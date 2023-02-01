@@ -1,0 +1,3 @@
+Username (leave blank to use 'frankenstein'): kontama
+Email address: kontama@kontama.com
+Password:benilde07
